@@ -1,6 +1,9 @@
 # Omakub
 
-Turn a fresh Ubuntu installation into a fully-configured, beautiful, and modern web development system by running a single command. That's the one-line pitch for Omakub. No need to write bespoke configs for every essential tool just to get started or to be up on all the latest command-line tools. Omakub is an opinionated take on what Linux can be at its best.
+I'm modifying it for Fedora, removing themes and other things I don't use, and adding things I do use.
+
+
+This is a fork of Omakub, see info below.
 
 Watch the introduction video and read more at [omakub.org](https://omakub.org).
 
